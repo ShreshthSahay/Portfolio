@@ -1,0 +1,6 @@
+insert  table name => "Shreshth_portfolio" with inputs "Name", "Email", "Phone_no"
+in your database in mysql.
+
+login id: Shreshth
+password: S@123
+
